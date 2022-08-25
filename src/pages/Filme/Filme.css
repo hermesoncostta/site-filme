@@ -47,19 +47,19 @@
     padding: 12px;
     border-radius: 5px;
     cursor: pointer;
-    background-color: #faa200;
+    background-color: #8c07dc;
     color: #fff;
     transition: all 0.3s;
 }
 
 .buttom-area button:hover {
     
-    background-color: #fa7000;
+    background-color: #5e0494;
     color: #fff;
 }
 .buttom-area a{
     text-decoration: none;
-    background-color: #faa200;
+    background-color: #8c07dc;
     color: #fff;
     padding: 12px;
     border-radius: 5px;
@@ -69,6 +69,6 @@
 
 .buttom-area a:hover {
     
-    background-color: #fa7000;
+    background-color: #5e0494;
     color: #fff;
 }

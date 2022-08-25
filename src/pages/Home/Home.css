@@ -14,7 +14,7 @@
 
 .lista-filme article{
     width: 100%;
-    background-color: #fff;
+    background-color: #031745;
     padding: 15px;
     border-radius: 4px;
 }
@@ -41,7 +41,7 @@
 .lista-filme a{
     display: flex;
     align-items: center;
-    background-color: #faa200;
+    background-color: #8c07dc ;
     color: #fff;
     justify-content: center;
     padding: 10px 0; 

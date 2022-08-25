@@ -6,7 +6,11 @@
 
 body{
     font-family: sans-serif;
+    background-color: #031745;
+    /* background-color: rgb(39, 1, 36); */
+    color: #fff;
 }
+
 
 
 .app{

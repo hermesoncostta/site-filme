@@ -1,34 +1,34 @@
 header{
-    background-color: rgb(39, 1, 36);
+    background-color: #031745;
+
     display:flex;
-    justify-content: space-around;
+    justify-content: space-between;
     width: 100%;
-    height: 60px;
+    height: 70px;
     align-items: center ;
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
-.logo{
-    text-decoration: none;
-    cursor: pointer;
-    color:#faa200;
-    font-size: 30px;
-    font-weight: bold;
+
+header img{
+    height: 50px;
+    width: 50px;
 }
 
 .favoritos{
     text-decoration: none;
     cursor: pointer;
-    background-color: #faa200;
+    background-color: #8c07dc;
     color: #fff;
     border-radius: 4px;
     padding: 5px 15px;
 }
 
 .favoritos:hover{
-    /* text-decoration: none; */
     cursor: pointer;
-    background-color: #fa7000;
+    background-color: #5e0494;
     color: #fff;
-    /* border-radius: 4px;
-    padding: 5px 15px; */
+    transition: all 0.3s;
+   
 }
